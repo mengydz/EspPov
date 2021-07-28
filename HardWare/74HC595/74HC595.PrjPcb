@@ -106,10 +106,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCOSRTIX
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 74HC595\Board Information - 74HC595.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
